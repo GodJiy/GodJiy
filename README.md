@@ -1,0 +1,5 @@
+- 👋 Hi, I’m GodJiy
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python,SQL
+- 📫 How to reach me Discord: @godjiy
+- 😄 Pronouns: He/His
